@@ -6,7 +6,8 @@ Todo empieza con una expedición [Hacklabera](http://hacklabalmeria.net/) que ac
 
 Nuestros compañeros Laura Cáceres y Diego Martínez de [Guadatech](http://www.guadatech.com/), disfrutaron los días 20, 21 y 22 de Noviembre de un evento dedicado a uno de los lenguajes de programación más _sui genereis_ que existen, [Python](https://es.wikipedia.org/wiki/Python). Allí pudieron contactar con gente muy válida y diversa, como nuestros amigos de [CircoLab](http://www.circolab.org/).
 
-A su vuelta a Almería, coincidimos en las [Jornadas Hacklab Almería 2015](http://hacklabalmeria.net/2015/12/11/ii-jornadas-hacklab.html) de El Ejido. Durante una de esas comidas que alimentan más por lo que escuchas, que por lo que engulles, nos enteramos sobre rumores que apuntan a que la próxima PyConEs puede ser Granada.
+A su vuelta a Almería, coincidimos en las [Jornadas Hacklab Almería 2015](http://hacklabalmeria.net/2015/12/11/ii-jornadas-hacklab.html) de El Ejido. Durante una de esas comidas que alimentan más por lo que escuchas, que por lo que engulles, nos enteramos sobre los rumores que apuntan a que la próxima PyConEs puede ser en Granada.
+
 
 ![](Captura de pantalla de 2016-07-17 19:19:59.png)
 
