@@ -20,6 +20,6 @@ Tras conocer la noticia, Adolfo Rosillo (fundador de Hacklab Almería) le coment
 
 ![](Captura de pantalla de 2016-07-17 20:36:10.png)
 
-Al acabar, Cristo le hace una proposición en firme a Adolfo y Jose María Martínez García (miembro de Hacklab Almería con inquietudes artísticas) de hacer un grupo de trabajo en firme para poder llevar acabo la idea de Adolfo. Los 3 se comprometen a ello y deciden tener una primera reunión para hablar sobre ello en un par de semanas.
+Al acabar, Cristo le hace una proposición en firme a Adolfo y Jose María Martínez García (miembro de Hacklab Almería con inquietudes artísticas) de hacer un grupo de trabajo a parte de Hacklab, para poder llevar acabo la idea de Adolfo. Los 3 se comprometen a ello y deciden tener una primera reunión para hablar sobre el proyecto en un par de semanas.
 
-Ese mismo día por la noche, Cristo decide ser parte en la [2ª reunión organizativa de la PyConEs](https://lists.es.python.org/pipermail/general/2016-April/003201.html), para transmitir esto entre otras cosas. La respuesta por parte de la organización es muy positiva, y dan vía libre al proyecto.
+Ese mismo día por la noche, Cristo decide ser parte en la [2ª reunión organizativa de la PyConEs](https://lists.es.python.org/pipermail/general/2016-April/003201.html), para tratar de transmitir a la organización nuestras intenciones entre otras cosas. La respuesta por parte de la organización es muy positiva, y dan vía libre al proyecto. Pero dado que _"nos hemos colado"_ sin _"habernos dado nadie vela en este entierro"_, preferimos ser prudentes e ir por libre. Es decir, en ningún momento tratamos de ser parte de la organización.
