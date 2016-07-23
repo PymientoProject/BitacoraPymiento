@@ -11,13 +11,13 @@ A su vuelta a Almería, coincidimos en las [Jornadas Hacklab Almería 2015](http
 
 ![](Captura de pantalla de 2016-07-17 19:19:59.png)
 
-Durante el periodo de las Navidades, a Cristo se le ocurre que desde Hacklab Almería se podía trabajar el tema de Python durante 2016. Así podríamos abordar la PyConEs como una parte activa, y no como meros espectadores. Tras intentos fallidos de reunir al núcleo de Hacklab, y transmitirles esto a sus compañeros, una tarde de Febrero, en una cafetería local junto a [Ismael Olea](http://olea.org/) (uno de los 3 fundadores de Hacklab Almería y _"madre"_ de este), Cristo consigue por fin que sean escuchadas sus ideas.
+Durante el periodo de las Navidades, a Cristo se le ocurre que desde Hacklab Almería se podía trabajar el tema de Python durante 2016. Así podríamos abordar la PyConEs como una parte activa, y no como meros espectadores. Tras intentos fallidos de reunir al núcleo de Hacklab, y transmitirles esto a sus compañeros, la tarde del 27 de Febrero, en una cafetería local junto a [Ismael Olea](http://olea.org/) (uno de los 3 fundadores de Hacklab Almería y _"madre"_ de este), Cristo consigue por fin que sean escuchadas sus ideas.
 
 Lo maravilloso que tiene este mundo del Open Source, es que las ideas están ahí, para el que las quiera coger y mejorarlas. Ismael se hace eco de esto, y en un alarde de genialidad consigue que un mes después [Python España](http://www.es.python.org/) elija a Almería como sede oficial para la PyConEs 2016.
 
 ![](Captura de pantalla de 2016-07-17 19:58:53.png)
 
-Tras conocer la noticia, Adolfo Rosillo (fundador de Hacklab Almería) le comenta a Cristo que podrían tratar de _invadir_ el evento con una exposición de cuadros hechos con Python. Después de unos días, el 20 de Abril acudimos a ver la charla sobre _"Licencias Abiertas"_ de Ismael en el _[Creative Commons Almería Festival](http://ccalm.es/)_.
+Tras conocer la noticia, Adolfo Rosillo (fundador de Hacklab Almería) le comenta a Cristo que podrían tratar de _invadir_ el evento con una exposición de cuadros hechos con Python. Después de unos días, el 20 de Abril acudimos a ver la charla sobre _**Licencias Abiertas**_ de Ismael en el _[Creative Commons Almería Festival](http://ccalm.es/)_.
 
 ![](Captura de pantalla de 2016-07-17 20:36:10.png)
 
