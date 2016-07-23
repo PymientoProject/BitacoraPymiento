@@ -32,7 +32,8 @@ Siendo seducido por el nombre de Jose María, **Pymiento**, Adolfo aprovecha la 
 
 ![](Captura de pantalla de 2016-07-23 21:33:26.png)
 
-Tras el magnífico evento, Adolfo consigue entablar conversación con los organizadores del evento y también fundadores del lugar donde se encuentran, el [Workspace Coworking](http://www.workspace.es/): Luis Roca, Miguel 
+Tras el magnífico evento, Adolfo consigue entablar conversación con los organizadores del evento y también fundadores del lugar donde se encuentran, el [Workspace Coworking](http://www.workspace.es/): [Luis Roca](https://twitter.com/Bukart), [Miguel Ángel González](https://twitter.com/lavirgulillaes?lang=es) y [Fernando Mariano](https://twitter.com/netfreelance).
 
 ![](Captura de pantalla de 2016-07-23 22:01:53.png)
 
+Adolfo les comenta la posibilidad de que entren a colaborar con nosotros, y que para llevar esto a cabo necesitaríamos un centro de operaciones. Los tres son bastantes receptivos al respecto, están interesados por **Pymiento** y proponen que Workspace podía ser ese lugar de encuentro. Así pues queda fijada que la siguiente reunión será allí, donde poder parlamentar tranquilamente sobre todo esto.
