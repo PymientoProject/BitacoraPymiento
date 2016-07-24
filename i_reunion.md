@@ -1,4 +1,10 @@
 # I Reunión - 24/05/2016
+Fecha - 24/05/2016
+
+Hora  - 19:30
+
+Lugar - Workspace Coworking
+
 Asistentes:
 * Adolfo Rosillo
 * Jose María Martínez
