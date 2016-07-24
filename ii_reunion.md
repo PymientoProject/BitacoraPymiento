@@ -1,4 +1,4 @@
-# II Reunión
+# II Reunión - 01/06/2016
 
 Fecha - 01/06/2016
 
@@ -11,7 +11,6 @@ Asistentes:
 * Jose María Martínez
 * Cristóbal Contreras
 * Luis Roca
-* Miguel A. González
 * Favio Gutiérrez
 * Iván Gonzalo Moyano
 * Almudena Fernández
