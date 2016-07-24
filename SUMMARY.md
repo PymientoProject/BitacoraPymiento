@@ -4,5 +4,5 @@
    * [Comienzos](comienzos.md)
    * [Fundación](fundacion.md)
    * [Kick Off](kick_off.md)
-   * I Reunión
+   * [I Reunión](i_reunion.md)
 
