@@ -5,7 +5,7 @@
    * [Fundación](fundacion.md)
    * [Kick Off](kick_off.md)
    * [I Reunión](i_reunion.md)
-   * II Reunión
+   * [II Reunión](ii_reunion.md)
    * III Reunión
    * IV Reunión
    * V Reunión
