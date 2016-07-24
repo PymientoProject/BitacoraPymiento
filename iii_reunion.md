@@ -14,3 +14,5 @@ Asistentes:
 * Almudena Fernández
 * Aitor Álvarez
 
+![Asistentes de la III Reunión](IMG_20160607_204644.jpg)
+
