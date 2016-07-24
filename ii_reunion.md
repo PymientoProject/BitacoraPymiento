@@ -15,3 +15,6 @@ Asistentes:
 * Iván Gonzalo Moyano
 * Almudena Fernández
 * Aitor Álvarez
+
+![Asistentes de la II Reunión](IMG_20160601_212243.jpg)
+
