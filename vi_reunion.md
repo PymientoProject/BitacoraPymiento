@@ -13,6 +13,7 @@ Asistentes:
 * Iván Gonzalo Moyano
 * Fran Acién
 * Hugo Rosillo
+* Aitor Álvarez
 * Delia Gávez
 * Laura Ardila
 
