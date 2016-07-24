@@ -11,7 +11,7 @@
    * [V Reunión](v_reunion.md)
    * [VI Reunión](vi_reunion.md)
    * [VII Reunión](vii_reunion.md)
-   * VIII Reunión
+   * [VIII Reunión](viii_reunion.md)
    * IX Reunión
    * X Reunión
 
