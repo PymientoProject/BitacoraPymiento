@@ -16,5 +16,5 @@ Asistentes:
 * Almudena Fernández
 * Aitor Álvarez
 
-Lugar: Workspace Coworking
+
 
