@@ -17,7 +17,9 @@ Asistentes:
 * Aitor Álvarez
 
 Desarrollo - Intervenciones:
-* 
+* Adolfo tiene novedades
+  * El Lúnes con los gerentes del [Museo de Almería](http://www.museosdeandalucia.es/cultura/museos/MAL/).
+  * 
 * 
 
 ![Asistentes de la II Reunión](IMG_20160601_212243.jpg)
