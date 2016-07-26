@@ -27,4 +27,5 @@ Desarrollo - Intervenciones:
   * En la Feria del Medio Día hacer alguna performance, o con el reparto de los abanicos.
 
 * Tenemos 20 semanas para la PyConEs.
-* Fijamos que para el Martes que viene hacemos una presentación de las herramientas y un taller de Processing.
+* Fijamos la siguiente reunión para el Mártes que viene a las 19.30 para poder amasar todos estos nuevos conceptos y pensar con más claridad.
+* Haremos también una presentación de las herramientas y un taller de Processing.
