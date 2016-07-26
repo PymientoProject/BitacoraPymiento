@@ -27,4 +27,4 @@ Desarrollo - Intervenciones:
   * [Gitbook](https://www.gitbook.com/) para crear la documentación que irá alojada en Github.
 * Jose María da un pequeño taller de Processing donde se muestra lo fácil que es con pocas líneas de código poder mostrar objetos por pantalla.
   * Adolfo adereza el taller mostrando piezas hechas con processing.
-* Decidimos reunirnos el Mártes que viene a las 19:30.
+* Decidimos reunirnos el Miércoles que viene a las 19:30.
