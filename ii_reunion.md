@@ -17,8 +17,7 @@ Asistentes:
 * Aitor Álvarez
 
 Desarrollo - Intervenciones:
-* Se descuelga Fernando Mariano, pero Favio trae a Iván Gonzalo. 
-* Además se incorporan Almudea y Aitor, colaboradores con Hacklab Almería.
+* 
 * 
 
 ![Asistentes de la II Reunión](IMG_20160601_212243.jpg)
