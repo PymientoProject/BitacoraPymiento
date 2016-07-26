@@ -1,4 +1,10 @@
 # Fundación - 03/05/2016
+Fecha - 03/05/2016
+
+Hora  - 19:00
+
+Lugar - Cafetería Roypa
+
 
 El 3 de Mayo, a las 7:00 pm, quedamos en una cafetería cercana a los 3 (Adolfo, Jose María y Cristo). Era una tarde de mucho viento, pero de una temperatura agradable, de esos días que te dá Almería que te hacen amar esta tierra pese a su ingratitud.
 
