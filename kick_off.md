@@ -1,5 +1,9 @@
 # Kick Off - 19/05/2016
+Fecha - 24/05/2016
 
+Hora  - 17:45
+
+Lugar - Workspace Coworking
 Asistentes:
 * Adolfo Rosillo
 * Jose María Martínez
