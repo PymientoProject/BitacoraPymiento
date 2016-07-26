@@ -19,7 +19,8 @@ Empezamos por ser conscientes de en que punto nos encontramos:
 * Tenemos que buscar nuestras señas de identidad.
 * Adolfo habla sobre la revista [FUSE](http://www.fusemagazineonline.com/), las tipografías digitales, y como la primera de estas está relacionada con Python.
 * Adolfo sostiene la teoría de que [Guido van Rossum](https://www.python.org/~guido/), creador de Python, está influenciado por su hermano, [Just van Rossum](https://en.wikipedia.org/wiki/Just_van_Rossum), que a parte de programador, es diseñador. Eso se refleja en ciertos aspectos, como el minimalismo del lenguaje y su gusto por la estética que se plasma en el [Zen de Python](https://www.python.org/dev/peps/pep-0020/).
-* Creemos que la tecnología ideal para empezar a movernos será [Processing](https://processing.org/) en su versión Python, [Processing.Py o PyProcessing](http://py.processing.org/)
+* Creemos que la tecnología ideal para empezar a movernos será [Processing](https://processing.org/) en su versión Python, [Processing.Py o PyProcessing](http://py.processing.org/).
+* Cristo propone que todo el proceso creativo del proyecto se documente para presentar un libro también en la PyConEs.
 
 Después de todo esto, nos despedimos con las siguientes tareas por hacer:
 
