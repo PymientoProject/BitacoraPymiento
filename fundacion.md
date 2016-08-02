@@ -34,6 +34,9 @@ Antes de irnos, Cristo habla sobre que nombre debería tener el proyecto ¿Hackl
 
 Solo 4 días después, Adolfo tiene la oportunidad de dar una charla en el [primer evento de #nosolotomate](http://www.nosolotomate.es/blog/primer-evento-de-nosolotomate/#more-1208). A este evento acuden distintos profesionales de Almería, tratando de poner en valor la provincia mirándola desde un punto de vista diferente. Adolfo da una charla titulada **"[Deja de preguntarte lo que el diseño puede hacer por ti y empieza a pensar lo que tu puedes hacer por él](http://www.netfreelance.info/nosolotomate-almeria-es-mas-que-la-huerta-de-europa/#10_gt_Deja_de_preguntar_por_lo_que_el_diseno_puede_hacer_por_ti_y_empieza_a_pensar_en_lo_que_tu_puedes_hacer_por_elAdolfo_Rosillo)"** (el título es más largo que la charla). 
 
+<img align="center" src="Captura de pantalla de 2016-07-23 21:33:44.png" alt="Comentarios Adolfo">
+
+
 ![](Captura de pantalla de 2016-07-23 21:33:44.png)
 
 ![](Captura de pantalla de 2016-07-23 21:31:10.png)
