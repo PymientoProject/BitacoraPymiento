@@ -14,5 +14,4 @@
    * [VIII Reunión](viii_reunion.md)
    * [IX Reunión](ix_reunion.md)
    * [X Reunión](x_reunion.md)
-* XI Reunión
 
