@@ -4,7 +4,7 @@ Fecha - 19/07/2016
 
 Hora  - 19:00
 
-Lugar - Chanca Party Style (Terraza de Gonzalo)
+Lugar - ChancaStyleParties (Terraza de Gonzalo)
 
 Asistentes:
 * Jose María Martínez
