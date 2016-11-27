@@ -17,4 +17,4 @@ Asistentes:
 * Delia Gávez
 * Laura Ardila
 
-![Asistentes VI Reunión](IMG_20160705_211103.jpg)
+![Asistentes VI Reunión](11_7Reunion.jpg)
