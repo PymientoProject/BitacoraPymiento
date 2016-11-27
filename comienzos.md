@@ -9,7 +9,7 @@ Nuestros compañeros Laura Cáceres y Diego Martínez de [Guadatech](http://www.
 A su vuelta a Almería, coincidimos en las [Jornadas Hacklab Almería 2015](http://hacklabalmeria.net/2015/12/11/ii-jornadas-hacklab.html) de El Ejido. Durante una de esas comidas que alimentan más por lo que escuchas, que por lo que engulles, nos enteramos sobre los rumores que apuntan a que la próxima PyConEs puede ser en Granada.
 
 
-![](Captura de pantalla de 2016-07-17 19:19:59.png)
+![Comida con Technow y Guadatech en las Jornadas Hacklab Almería 2015](Captura de pantalla de 2016-07-17 19:19:59.png)
 
 Durante el periodo de las Navidades, a Cristo se le ocurre que desde Hacklab Almería se podía trabajar el tema de Python durante 2016. Así podríamos abordar la PyConEs como una parte activa, y no como meros espectadores. Tras intentos fallidos de reunir al núcleo de Hacklab, y transmitirles esto a sus compañeros, la tarde del 27 de Febrero, en una cafetería local junto a [Ismael Olea](http://olea.org/) (uno de los 3 fundadores de Hacklab Almería y _"madre"_ de este), Cristo consigue por fin que sean escuchadas sus ideas.
 
