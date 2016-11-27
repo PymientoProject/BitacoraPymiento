@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-   * [Comienzos](comienzos.md)
+   * [Comienzos](01_comienzos.md)
    * [Fundación](fundacion.md)
    * [Kick Off](kick_off.md)
    * [I Reunión](i_reunion.md)
