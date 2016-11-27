@@ -6,7 +6,7 @@
    * [Kick Off](03_kick_off.md)
    * [I Reunión](04_i_reunion.md)
    * [II Reunión](05_ii_reunion.md)
-   * [III Reunión](iii_reunion.md)
+   * [III Reunión](06_iii_reunion.md)
    * [IV Reunión](iv_reunion.md)
    * [V Reunión](v_reunion.md)
    * [VI Reunión](vi_reunion.md)
