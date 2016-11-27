@@ -37,5 +37,5 @@ Desarrollo - Intervenciones:
   * Propone que mirará el tema de la landing page con Django.
 * Fijamos la siguiente reunión para el Mártes pŕoximo a las 19:30.
 
-![Asistentes de la II Reunión](07_2Reunion.jpg)
+![Asistentes de la II Reunión](05_2Reunion.jpg)
 
