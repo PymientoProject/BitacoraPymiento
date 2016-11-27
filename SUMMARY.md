@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [Comienzos](01_comienzos.md)
-   * [Fundación](fundacion.md)
+   * [Fundación](02_fundacion.md)
    * [Kick Off](kick_off.md)
    * [I Reunión](i_reunion.md)
    * [II Reunión](ii_reunion.md)
