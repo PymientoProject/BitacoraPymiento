@@ -18,4 +18,4 @@ Asistentes:
 * Almudena Fernández
 * Olga Fernández
 
-![Asistentes VII Reunión](Pymiento1.jpg)
+![Asistentes VII Reunión](10_vii_reunion.jpg)
