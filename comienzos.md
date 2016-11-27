@@ -2,7 +2,7 @@
 
 Todo empieza con una expedición [Hacklabera](http://hacklabalmeria.net/) que acude a Valencia a disfrutar de la [PyConEs 2015](http://2015.es.pycon.org/es/).
 
-![](Captura de pantalla de 2016-07-17 18:54:03.png)
+![Larua y Diego con los amigos de Circolab en la PyConEs 2015](01_PyConEs2015.png)
 
 Nuestros compañeros Laura Cáceres y Diego Martínez de [Guadatech](http://www.guadatech.com/), disfrutaron los días 20, 21 y 22 de Noviembre de un evento dedicado a uno de los lenguajes de programación más _sui genereis_ que existen, [Python](https://es.wikipedia.org/wiki/Python). Allí pudieron contactar con gente muy válida y diversa, como nuestros amigos de [CircoLab](http://www.circolab.org/).
 
