@@ -34,14 +34,16 @@ Antes de irnos, Cristo habla sobre que nombre debería tener el proyecto ¿Hackl
 
 Solo 4 días después, Adolfo tiene la oportunidad de dar una charla en el [primer evento de #nosolotomate](http://www.nosolotomate.es/blog/primer-evento-de-nosolotomate/#more-1208). A este evento acuden distintos profesionales de Almería, tratando de poner en valor la provincia mirándola desde un punto de vista diferente. Adolfo da una charla titulada **"[Deja de preguntarte lo que el diseño puede hacer por ti y empieza a pensar lo que tu puedes hacer por él](http://www.netfreelance.info/nosolotomate-almeria-es-mas-que-la-huerta-de-europa/#10_gt_Deja_de_preguntar_por_lo_que_el_diseno_puede_hacer_por_ti_y_empieza_a_pensar_en_lo_que_tu_puedes_hacer_por_elAdolfo_Rosillo)"** (el título es más largo que la charla). 
 
-![Adolfo presentando Pymiento en #nosolotomate](05_NoSoloTomate.png)
+![Adolfo presentando Pymiento en #nosolotomate](02_1_NoSoloTomate.png)
+
+![Adolfo presentando Pymiento en #nosolotomate](02_2_NoSoloTomate.png)
 
 Siendo seducido por el nombre de Jose María, **Pymiento**, Adolfo aprovecha la charla para dar a conocer a los ponentes nuestras intenciones. **#ThePymientoProject** se convierte en un compromiso real y público por nuestras parte.
 
-![Adolfo hace público el proyecto](06_NoSoloTomate.png)
+![Adolfo hace público el proyecto](02_3_NoSoloTomate.png)
 
 Tras el magnífico evento, Adolfo consigue entablar conversación con los organizadores del evento y también fundadores del lugar donde se encuentran, el [Workspace Coworking](http://www.workspace.es/): [Luis Roca](https://twitter.com/Bukart), [Miguel Ángel González](https://twitter.com/lavirgulillaes?lang=es) y [Fernando Mariano](https://twitter.com/netfreelance).
 
-![](Captura de pantalla de 2016-07-23 22:01:53.png)
+![Organizadores del #noolotomate](02_4_NoSoloTomate.png)
 
 Adolfo les comenta la posibilidad de que entren a colaborar con nosotros, y que para llevar esto a cabo necesitaríamos un centro de operaciones. Los tres son bastantes receptivos al respecto, están interesados por **Pymiento** y proponen que Workspace podía ser ese lugar de encuentro. Así pues queda fijada que la siguiente reunión será allí, donde poder parlamentar tranquilamente sobre todo esto.
