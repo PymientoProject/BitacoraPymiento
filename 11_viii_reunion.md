@@ -20,4 +20,4 @@ Asistentes:
 * Elena Caballero
 * Helen Mar
 
-![Asistentes VIII Reunión](DSC_0410.jpg)
+![Asistentes VIII Reunión](11_viii_reunion.jpg)
