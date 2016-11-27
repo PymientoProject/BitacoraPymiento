@@ -18,4 +18,4 @@ Asistentes:
 * [Iván Castaño](http://www.semimate.com/)
 * Cristina Góngora
 
-![Asistentes de la V Reunión](10_5Reunion.jpg)
+![Asistentes de la V Reunión](08_v_reunion.jpg)
