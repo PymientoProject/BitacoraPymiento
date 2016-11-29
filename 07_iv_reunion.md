@@ -14,4 +14,6 @@ Asistentes:
 * Fran Acién
 * Hugo Rosillo
 
+Desarrollo - Intervenciones:
+
 ![Algunos asistentes de la IV Reunión](07_iv_reunion.jpg)
