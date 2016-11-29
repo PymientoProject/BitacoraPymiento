@@ -15,7 +15,17 @@ Asistentes:
 * Aitor Álvarez
 
 Desarrollo - Intervenciones:
-* Aitor: 
+* Aitor propone empezar a dividirnos por grupos de trabajo.
+* Gonzalo pide que cada uno diga que es lo que sabe hacer, para poder saber más o menos que podemos abordar. Así trataremos de fijar las ideas que tengamos.
+* Almudena cree que su talento está en conexión de ideas, potenciando a cada uno.
+* Adolfo argumenta varias ideas:
+  * **De la necesidad virtud**, somos la huerta de Europa siendo un desierto. Debemos poder reflejar esto tanto en nuestras obras como en el proceso creativo.
+  * **Explorar los límites**, hacer con lo mínimo lo máximo, tratar de llevar la tecnología o Python en concreto a donde falla. Un ejemplo podría ser tratar de hacer que Arduino mueva video en una tele vieja.
+  * **Conexión**, si tenemos dos sedes (la UALy el Museo), hay que pensar en piezas con conectividad. Las dos localizaciones son complementarias, así que si haces algo en una, puedes ir al Museo a recoger lo que has hecho (ej, un tweet en la UAL y es impreso en el Museo).
+* Aitor argumenta hablemos de identidad.
+  * Parecido al concepto de Adolfo de inspirarnos en donde vivimos, inspirarnos en las personas.
+  * Un ejemplo podrían ser letras que hacen un poema que te define. Al retirarte se ve que el poema es una huella dactilar.
+  * Otro ejemplo podría ser usar la colmena generativa de Gonzalo, pero en lugar de una colmena, hacer un armadillo cuyas placas sean espejos.
 
 
 ![Asistentes de la III Reunión](06_iii_reunion.jpg)
