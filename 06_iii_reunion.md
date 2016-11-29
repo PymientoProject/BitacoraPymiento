@@ -15,6 +15,7 @@ Asistentes:
 * Aitor Álvarez
 
 Desarrollo - Intervenciones:
+* Aitor: 
 
 
 ![Asistentes de la III Reunión](06_iii_reunion.jpg)
